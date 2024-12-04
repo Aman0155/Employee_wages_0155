@@ -1,4 +1,4 @@
-
+  
 wages_per_hour = 20
 full_day_hour = 8
 
